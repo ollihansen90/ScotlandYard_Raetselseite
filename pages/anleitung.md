@@ -18,12 +18,15 @@ Das Spiel umfasst sechs Runden, die jeweils 20-30 Minuten dauern. In jeder Runde
 Ein typischer Ablauf eines Schrittes sieht folgendermaßen aus:
 1. Die Detektive kommen an eine Station und bekommen das Rätsel genannt.
 2. Sie erhalten den Hinweis, welches Verkehrsmittel Ms. X benutzt hat.
-3. Die Detektive planen, welche Station sie als nächstes besuchen möchten.
+3. Die Detektive planen, welche Station sie als nächstes besuchen möchten. Hierbei sind natürlich nur die Stationen erlaubt, die mit der aktuellen Station verbunden sind (siehe dafür Karte).
 4. Die Detektive lösen das Rätsel und erhalten Bonuspunkte (optional).
 5. Die Assistenten geben dem Koordinator Bescheid, wo die Detektive sich als nächstes hinbewegen möchten.
 6. Die Detektive machen sich auf den Weg zur nächsten Station.
 
 Zu 3.: Die Detektive können beliebig häufig die Station *zu Fuß* wechseln. Es gibt Stationen (2, 7, 12, 13), die mit einer Busverbindung ausgestattet sind. Den Bus können die Detektive nur einmal benutzen. (Die Detektive gehen trotzdem zu Fuß.)
+
+### Punkteverteilumg
+Für das Fangen von Ms. X gibt es 6 Punkte. Das Lösen eines Rätsels bringt 1 Punkt. Die Bonuspunkte sind optional und können von den Detektiven selbst entschieden werden. 
 
 ### Wichtiger Hinweis
 Im letzten Schritt des Spiels (Runde 6) sollten sich die Detektive wieder in Richtung Norden orientiert haben. Die Statioinen 12, 13, 14 und 15 sollten also möglichst nicht erst in Runde 6 besucht werden.
