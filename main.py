@@ -3,7 +3,8 @@ import utils, os
 
 st.title('Rätsel für Scotland Yard')
 
-mapping = {"1. Hansemuseum": "hansemuseum",
+mapping = {"Anleitung": "anleitung",
+            "1. Hansemuseum": "hansemuseum",
             "2. Burgtor": "burgtor",
             "3. Museumshafen": "museumshafen",
             "4. Heiligen-Geist-Hospital": "heiligengeist",
@@ -54,11 +55,12 @@ nachfolger_bus = {
             "13. Niederegger": ["7. Theater"],
             }
 with col2:
-    nachfolgetext = "##### Mögliche Nachfolgerorte (zu Fuß) \n"
-    for nachfolger in nachfolger_fuss[ort]:
-        nachfolgetext += f"- {nachfolger} \n"
-    if ort in nachfolger_bus.keys():
-        nachfolgetext += "\n##### Mögliche Nachfolgerorte (Bus) \n"
-        for nachfolger in nachfolger_bus[ort]:
+    if ort != "Anleitung":
+        nachfolgetext = "##### Mögliche Nachfolgerorte (zu Fuß) \n"
+        for nachfolger in nachfolger_fuss[ort]:
             nachfolgetext += f"- {nachfolger} \n"
-    st.markdown(nachfolgetext)
+        if ort in nachfolger_bus.keys():
+            nachfolgetext += "\n##### Mögliche Nachfolgerorte (Bus) \n"
+            for nachfolger in nachfolger_bus[ort]:
+                nachfolgetext += f"- {nachfolger} \n"
+        st.markdown(nachfolgetext)
