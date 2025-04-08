@@ -1,4 +1,4 @@
-## Aegidienkirche
+## 15. Aegidienkirche
 
 ### Rätsel
 Findet das Jahr heraus, in dem die Aegidienkirche zuerst erwähnt wurde. Zu wie vielen verschiedenen neuen vierstelligen Zahlen könnt ihr die Ziffern des gesuchten Jahres umsortieren?

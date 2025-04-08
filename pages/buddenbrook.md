@@ -1,4 +1,4 @@
-## Buddenbrookhaus
+## 10. Buddenbrookhaus
 
 ### Rätsel
 Die Anzahl der rechteckigen Fenster ist doppelt so groß wie die der Fenster mit Halbkreis-Abschluss.

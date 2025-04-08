@@ -1,4 +1,4 @@
-## Burgtor
+## 2. Burgtor
 ### Rätsel
 
 Was kann man in der Großen Burgstraße Nr. X kaufen? Als X wird die Quersumme der Zahl Y bezeichnet.

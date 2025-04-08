@@ -1,4 +1,4 @@
-## Theater
+## 7. Theater
 
 ### Rätsel 
 Eine Eintrittskarte für das Lübecker Theater kostet 25 Euro pro Person. Inhaber:innen der LübeckCard erhalten allerdings Rabatte.
@@ -6,7 +6,7 @@ Eine Eintrittskarte für das Lübecker Theater kostet 25 Euro pro Person. Inhabe
 Ihr wollt nun zwei Karten kaufen und besitzt jeweils die LübeckCard. Dafür bekommt ihr eine Ermäßigung von 10% auf die erste Karte und 30% Ermäßigung auf die zweite Karte. Wie viel Geld gebt ihr für beide Karten zusammen aus?
 
 <details>
-Lösung:
+### Lösung
 40 Euro.
 
 

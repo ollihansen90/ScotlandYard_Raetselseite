@@ -1,4 +1,4 @@
-## St. Marien
+## 11. St. Marien
 
 ### Rätsel 1
 Die Astronomische Uhr (erbaut 1561–1566) war ein Kleinod der Kunst- und Sakralgeschichte. Sie stand hinter dem Hochaltar im Chorumgang und wurde 1942 vollständig zerstört. Die neue Astronomische Uhr (erbaut 1955-1967), wurde an der Ostseite des nördlichen Querschiffes in der Totentanzkapelle aufgestellt. 

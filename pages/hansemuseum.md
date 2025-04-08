@@ -1,4 +1,4 @@
-## Europäisches Hansemuseum
+## 1. Europäisches Hansemuseum
 ### Rätsel
 Stellt euch vor das Europäische Hansemuseum und betrachtet die Treppe, die zur Aussichtsplattform des Europäischen Hansemuseum führt. Mister X wurde vor einigen Tagen auf dieser Treppe gesichtet. Dabei ist er die Treppen auffällig langsam hochgegangen und benötigte durchschnittlich 2,5 Sekunden pro Treppenstufe. Dagegen hat er auf dem Rückweg nur durchschnittlich 1,4 Sekunden pro Treppenstufe gebraucht. 
 
