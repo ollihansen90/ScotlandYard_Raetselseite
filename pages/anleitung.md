@@ -1,9 +1,9 @@
 ## Anleitung
 
 ### Einleitung
-Das Brettspiel Scotland Yard ist ein spannendes Detektivspiel, bei dem ein Spieler in die Rolle des geheimnisvollen Ms. X schlüpft, während die anderen als Detektive versuchen, ihn quer durch die Stadt London aufzuspüren. Ms. X bewegt sich im Verborgenen und gibt nur gelegentlich Hinweise zu seinem Standort, während die Detektive gemeinsam Strategien entwickeln, um ihn einzukreisen und zu fassen. Teamwork, Taktik und ein gutes Gespür sind gefragt – denn nur wer clever kombiniert und gut zusammenarbeitet, hat eine Chance, Ms. X zu schnappen, bevor er entkommt.
+Das Brettspiel Scotland Yard ist ein spannendes Detektivspiel, bei dem ein Spieler in die Rolle des geheimnisvollen Mr. oder Ms. X schlüpft, während die anderen als Detektive versuchen, ihn quer durch die Stadt London aufzuspüren. Mr./Ms. X bewegt sich im Verborgenen und gibt nur gelegentlich Hinweise zum Standort, während die Detektive gemeinsam Strategien entwickeln, um ihn/sie einzukreisen und zu fassen. Teamwork, Taktik und ein gutes Gespür sind gefragt – denn nur wer clever kombiniert und gut zusammenarbeitet, hat eine Chance, Mr./Ms. X zu schnappen, bevor er/sie entkommt.
 
-Sehr ähnlich möchten wir das Spiel in der Stadt Lübeck spielen. Die Schüler:innen sind die Detektive und müssen Ms. X finden. An den unterschiedlichen Stationen gibt es Rätsel zu lösen, die allerdings nicht verpflichtend sind. Sie können jedoch Bonuspunkte einbringen!
+Sehr ähnlich möchten wir das Spiel in der Altstadt von Lübeck spielen. Die Schüler:innen sind die Detektive und müssen Ms. X finden. An den unterschiedlichen Stationen gibt es Rätsel zu lösen, die allerdings nicht verpflichtend sind. Sie können jedoch Bonuspunkte einbringen!
 
 ### Rollen
 In dem Spiel gibt es vier Rollen:
