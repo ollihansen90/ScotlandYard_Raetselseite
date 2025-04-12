@@ -8,3 +8,11 @@ Bestimme die Fläche zwischen der Klughafenbrücke und dem Elbe-Lübeck-Kanal. D
 - Berechne Kreiswinkel
 - Berechne Kreissegment-Fläche
 - Berechne Fläche unter Kreissegment
+
+<details>
+### Lösung
+Kreisradius: 520.68
+Kreiswinkel: 17.12°
+Kreissegment-Fläche: 600.02
+Gesamtfläche: 600.02 + 155 = 755.02
+</details>
